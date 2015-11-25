@@ -1,6 +1,6 @@
 ## Testowanie aplikacji w Ruby, mjaszczak@sigma.ug.edu.pl.
 
-1. [x] [Learn X in Y minutes, where X = Ruby Array/Hash/Enumerable](ruby.md)
+1. [x] Learn X in Y minutes, where X = Ruby Array/Hash/Enumerable
   - [x] [Array](ruby-array.md)
   - [x] [Hash](ruby-hash.md)
   - [x] [Enumerable](ruby-enumerable.md)
