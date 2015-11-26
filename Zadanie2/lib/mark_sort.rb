@@ -1,4 +1,7 @@
 
+  def blend(array)
+    array.shuffle!
+  end
   def mark_sort(array)
     array_max = array.max
     array_min = array.min
@@ -17,6 +20,6 @@
     res
   end
   #arr = [9, 2, 3, 4, 5, 6, 7, 8]
- # arr = mark_sort(arr)
+  #arr = mark_sort(arr)
   #p mark_sort(arr)
- # puts arr
+  #puts arr
