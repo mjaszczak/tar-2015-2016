@@ -4,7 +4,7 @@
   - [x] [Array](ruby-array.md)
   - [x] [Hash](ruby-hash.md)
   - [x] [Enumerable](ruby-enumerable.md)
-2. [ ] [Coś do przetestowania na początek](/)
+2. [x] [Coś do przetestowania na początek](Zadanie2)
 3. [ ] [Doubles, mocks, stubs](/)
 4. [ ] [Program/Biblioteka/Aplikacja WWW](/)
 
