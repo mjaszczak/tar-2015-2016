@@ -5,7 +5,7 @@
   - [x] [Hash](ruby-hash.md)
   - [x] [Enumerable](ruby-enumerable.md)
 2. [x] [Coś do przetestowania na początek](Zadanie2)
-4. [x] [Program/Biblioteka/Aplikacja WWW](zadanie4)
+4. [x] [Program/Biblioteka/Aplikacja WWW](Zadanie4)
 
 ## Podręczne linki
 
