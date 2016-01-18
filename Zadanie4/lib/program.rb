@@ -2,7 +2,7 @@ require_relative '../spec/spec_helper'
 
 
 
-klient1 = Klient.new 'Janusz', 'Kowalski'
+klient1 = Klient.new('Janusz', 'Kowalski')
 samochod1 = Samochod.new('Fiat', 'Punto', 'S')
 samochod2 = Samochod.new('Ferrari', '458', 'P')
 

@@ -1,9 +1,13 @@
 require 'rspec'
+require_relative '../spec/spec_helper'
 
-describe 'My behaviour' do
 
-  it 'should test klient class' do
-
-    true.should == false
+  describe Klient do
+    it 'be initialized with two arguments' do
+      expect {
+        Klient.new('Janusz', 'Wiercipieta')
+      }.to_not raise_error
+    end
   end
-end
+
+
