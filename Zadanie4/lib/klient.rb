@@ -38,8 +38,4 @@ class Klient
     @wypozyczenie.inject(0) { |sum, wypozyczenie| sum += wypozyczenie.punkty }
   end
 
-
-
-
-
 end

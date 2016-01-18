@@ -24,6 +24,7 @@ GEM
     simplecov-html (0.10.0)
 
 PLATFORMS
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
@@ -32,4 +33,4 @@ DEPENDENCIES
   simplecov (~> 0.10.0)
 
 BUNDLED WITH
-   1.10.6
+   1.11.2

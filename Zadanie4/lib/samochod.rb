@@ -13,6 +13,7 @@ class Samochod
   def getSamochod
     return @marka, @model, @klasa
   end
+
   def kwota(dni)
     if @klasa == 'S'
       @cena = 50 * dni

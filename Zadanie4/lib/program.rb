@@ -1,6 +1,6 @@
 require_relative '../spec/spec_helper'
 
-
+#przykladowe uzycie programu
 
 klient1 = Klient.new('Janusz', 'Kowalski')
 samochod1 = Samochod.new('Fiat', 'Punto', 'S')
