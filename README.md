@@ -1,12 +1,11 @@
-## Testowanie aplikacji w Ruby, mjaszczak@sigma.ug.edu.pl.
+﻿## Testowanie aplikacji w Ruby, mjaszczak@sigma.ug.edu.pl.
 
 1. [x] Learn X in Y minutes, where X = Ruby Array/Hash/Enumerable
   - [x] [Array](ruby-array.md)
   - [x] [Hash](ruby-hash.md)
   - [x] [Enumerable](ruby-enumerable.md)
 2. [x] [Coś do przetestowania na początek](Zadanie2)
-3. [ ] [Doubles, mocks, stubs](/)
-4. [ ] [Program/Biblioteka/Aplikacja WWW](/)
+4. [x] [Program/Biblioteka/Aplikacja WWW](zadanie4)
 
 ## Podręczne linki
 
